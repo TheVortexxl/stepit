@@ -1,1 +1,1 @@
-print(" a asd asd asdasdasd asd asd asd")
+print("asdasdasdd")
